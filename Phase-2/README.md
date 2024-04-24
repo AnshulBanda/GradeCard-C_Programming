@@ -1,4 +1,4 @@
-PHASE-2 OF CASE STUDY FOR C-PROGRAMMING\n
+PHASE-2 OF CASE STUDY FOR C-PROGRAMMING
 the program involves 8 files. 
 The lib.h files involves structures for the code and also involves the function calls of all the files that are included into the code.
 The main.c file involves the start of the code. The code asks the user to enter yes or no if they wish to start the program or not. If the user chooses to not start the program, the program ends and the user 
